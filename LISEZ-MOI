@@ -1,0 +1,7 @@
+Le projet final à compiler se trouve suivant le chemin "Project/Projet/" c'est le fichier main.cpp.
+
+Pour pouvoir compiler le projet et obtenir l'executable ProjetFinal.hex, il faut d'abord compiler la libraire qui se trouve suivant le chemin "Project/Lib/" en faisant appel à la commande "make".
+
+_____________________________________________________________
+
+First, compile the library by doing the "make" command in the "Project/Lib/" folder. Then you will be able to compile the project by using the "make" command in the "Project/Projet/" folder.
